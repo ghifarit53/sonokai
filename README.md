@@ -102,13 +102,9 @@ To apply it without reloading:
 :call lightline#colorscheme()
 ```
 
-#### Airline
+#### Other ports
 
-Sorry, no airline port of sonokai espresso at this time
-
-#### Alacritty
-
-Sorry, no alacritty port of sonokai espresso at this time
+Sorry, no `sonokai espresso` ports at this time for vim-airline, zsh, and alacritty
 
 ## License
 
