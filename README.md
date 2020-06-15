@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="pictures/sonokai-logo.png">
+</p>
+
 <h2 align="center">
 Shusia
 </h2>
