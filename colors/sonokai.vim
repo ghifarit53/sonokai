@@ -125,6 +125,30 @@ elseif s:configuration.style ==# 'maia'
         \ 'grey':       ['#82878b',   '246',  'LightGrey'],
         \ 'none':       ['NONE',      'NONE', 'NONE']
         \ }
+elseif s:configuration.style ==# 'espresso'
+  let s:palette = {
+        \ 'black':      ['#403838',   '237',  'DarkGrey'],
+        \ 'bg0':        ['#2c2525',   '235',  'Black'],
+        \ 'bg1':        ['#382f2f',   '236',  'DarkGrey'],
+        \ 'bg2':        ['#403636',   '236',  'DarkGrey'],
+        \ 'bg3':        ['#453a3a',   '237',  'DarkGrey'],
+        \ 'bg4':        ['#4a3e3e',   '237',  'Grey'],
+        \ 'bg_red':     ['#ff6984',   '203',  'Red'],
+        \ 'diff_red':   ['#803442',   '52',   'DarkRed'],
+        \ 'bg_green':   ['#b1e07b',   '107',  'Green'],
+        \ 'diff_green': ['#658046',   '22',   'DarkGreen'],
+        \ 'bg_blue':    ['#72d2f2',   '110',  'Blue'],
+        \ 'diff_blue':  ['#3c6f80',   '17',   'DarkBlue'],
+        \ 'fg':         ['#fff1f3',   '250',  'White'],
+        \ 'red':        ['#fd6883',   '203',  'Red'],
+        \ 'orange':     ['#f38d70',   '215',  'Orange'],
+        \ 'yellow':     ['#f9cc6c',   '179',  'Yellow'],
+        \ 'green':      ['#adda78',   '107',  'Green'],
+        \ 'blue':       ['#6dcae8',   '110',  'Blue'],
+        \ 'purple':     ['#a8a9eb',   '176',  'Magenta'],
+        \ 'grey':       ['#72696a',   '246',  'LightGrey'],
+        \ 'none':       ['NONE',      'NONE', 'NONE']
+        \ }
 endif
 " }}}
 " Function: {{{
