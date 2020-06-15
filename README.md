@@ -106,6 +106,10 @@ To apply it without reloading:
 
 Sorry, no airline port of sonokai espresso at this time
 
+#### Alacritty
+
+Sorry, no alacritty port of sonokai espresso at this time
+
 ## License
 
 [MIT](./LICENSE) © sainnhe
