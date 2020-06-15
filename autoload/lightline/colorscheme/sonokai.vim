@@ -51,6 +51,16 @@ elseif s:style ==# 'maia'
     let s:green = [ '#a2e57b', 107 ]
     let s:blue = [ '#7cd5f1', 110 ]
     let s:purple = [ '#baa0f8', 176 ]
+elseif s:style ==# 'espresso'
+    let s:foreground = [ '#fff1f3', 250 ]
+    let s:background = [ '#2c2525', 235 ]
+    let s:background_alt = [ '#403636', 236 ]
+    let s:background_grey = [ '#4d4647', 238 ]
+    let s:red = [ '#fd6883', 203 ]
+    let s:yellow = [ '#f9cc6c', 179 ]
+    let s:green = [ '#adda78', 107 ]
+    let s:blue = [ '#6dcae8', 110 ]
+    let s:purple = [ '#bb97ee', 176 ]
 endif
 "}}}
 
